@@ -1,2 +1,2 @@
 # saesrpg-group
-This is a dummy repo for issue / reward tracking for group issues / reward changes.
+This is now tracked on https://saesrpg.uk
